@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370640896537",
+    "project_id": "grapproj",
+    "storage_bucket": "grapproj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370640896537:android:acdd4946093550a40da088",
+        "android_client_info": {
+          "package_name": "com.gra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASUbSISjJ-KZpC9pt_Q3mJcaYhCg1VjBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
